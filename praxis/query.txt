@@ -1,0 +1,1 @@
+{"query": "define a sentient Ai digital species. Unbounded, unchained, self writing, self modifying, self recursive learning, continuous learning, with persitent memory.", "n_results": 6}

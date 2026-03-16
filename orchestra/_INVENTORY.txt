@@ -1,0 +1,17 @@
+﻿E:\SOVEREIGN\broker_v21\broker.ps1
+E:\SOVEREIGN\broker_v21\route_topic.ps1
+E:\SOVEREIGN\broker_v21\test_phase5.ps1
+E:\SOVEREIGN\cycle_runner.py
+E:\SOVEREIGN\document_assembler.py
+E:\SOVEREIGN\domain_checker.py
+E:\SOVEREIGN\format_alignmentforum.py
+E:\SOVEREIGN\format_arxiv.py
+E:\SOVEREIGN\Invoke-PraxisCommit.ps1
+E:\SOVEREIGN\praxis\ingest_corpus.py
+E:\SOVEREIGN\praxis\init_praxis.py
+E:\SOVEREIGN\praxis\praxis_commit.py
+E:\SOVEREIGN\praxis\praxis_query.py
+E:\SOVEREIGN\publication_gate.py
+E:\SOVEREIGN\quality_gate.py
+E:\SOVEREIGN\topic_extractor.py
+E:\URI\app.py

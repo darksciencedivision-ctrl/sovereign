@@ -1,0 +1,3 @@
+[TOPIC session_id=20260315T182001Z_does-structured-multi-mo_44cbef8c]
+Does structured multi-model debate improve reasoning reliability under constrained hardware?
+[/TOPIC]

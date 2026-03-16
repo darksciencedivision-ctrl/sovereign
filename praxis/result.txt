@@ -1,0 +1,11 @@
+[
+  {
+    "type": "corpus",
+    "source": "seed.txt",
+    "topic": "",
+    "chunk_index": 0,
+    "distance": 327.12103271484375,
+    "confidence": "?",
+    "content": "SOVEREIGN PRAXIS seed: broker schema gating, A/B/C debate, ledger adjudication, synthesis output. This text must be retrievable."
+  }
+]

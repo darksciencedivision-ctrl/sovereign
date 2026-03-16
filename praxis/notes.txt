@@ -1,0 +1,48 @@
+The next real step, if you want the system to actually feel like a “research engine”, is wiring SOVEREIGN’s autonomous research cycle so the system can generate topics, debate them, synthesize results, and store them automatically.
+
+
+
+
+11. Add explicit control actions to URI
+
+Your UI should eventually expose buttons or routes for:
+
+Run debate session
+
+Inject topic
+
+Query PRAXIS
+
+Show recent runs
+
+Show session graph
+
+Show synthesis log
+
+Pause/resume supervisor
+
+Open publication queue
+
+Without these, URI is still just a nice front end for /api/chat.
+
+12. Add a SOVEREIGN health panel
+
+Minimum status boxes:
+
+Ollama: online/offline
+
+URI: online
+
+PRAXIS: online/offline
+
+Broker: ready/not found
+
+Corpus path: found/missing
+
+Last run result: pass/fail
+
+Last session id
+
+Last synthesis timestamp
+
+That alone turns the UI from “chat thing” into a real operator board.

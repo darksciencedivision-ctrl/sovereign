@@ -1,0 +1,36 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Runtime / logs
+logs/
+runs/
+*.log
+*.tmp
+
+# SOVEREIGN runtime state
+session_graph.json
+orchestra_queue.txt
+commit_done.txt
+commit.json
+STOP
+
+# Local DB / vector stores
+*.sqlite
+*.db
+*.parquet
+chroma/
+db/
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
