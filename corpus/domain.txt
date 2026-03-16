@@ -1,0 +1,1 @@
+SOVEREIGN research domain: AI systems, orchestration, deterministic file IPC, evaluation, safety constraints, embeddings, retrieval, synthesis.
