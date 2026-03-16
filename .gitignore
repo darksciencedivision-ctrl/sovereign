@@ -62,3 +62,9 @@ praxis/app data.txt
 praxis/notes.txt
 praxis/notes2.txt
 *.jsonl
+
+# Keep URI example shell, exclude private/stateful contents
+examples/URI_snapshot/conversations/
+examples/URI_snapshot/memory/
+examples/URI_snapshot/uploads/
+examples/URI_snapshot/**/*.jsonl
