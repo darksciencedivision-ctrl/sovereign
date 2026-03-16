@@ -1,25 +1,27 @@
-﻿MIT License
+﻿SOVEREIGN Research and Non-Commercial License
 
 Copyright (c) 2026 Dark Science Division
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, subject to the following conditions:
+Permission is granted to use, copy, modify, and distribute this software for
+personal, educational, academic, evaluation, and other strictly non-commercial
+purposes, provided that this copyright notice and license text are retained.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Commercial use is not permitted under this license.
 
-NON-COMMERCIAL CLARIFICATION:
-This repository is released for research, educational, personal, and other
-non-commercial use under the MIT License terms above. Commercial rights are
-not granted by this file and are governed separately by LICENSE_COMMERCIAL.md.
+Commercial use includes, but is not limited to:
+- selling or sublicensing the software
+- bundling it into paid products or services
+- consulting or client delivery using the software
+- internal business use tied to revenue generation
+- hosted or managed services built on the software
+- SaaS, enterprise, or production deployment for commercial benefit
+
+For commercial rights, see LICENSE_COMMERCIAL.md.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.

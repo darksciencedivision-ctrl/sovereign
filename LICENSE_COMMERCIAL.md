@@ -2,36 +2,17 @@
 
 Copyright (c) 2026 Dark Science Division
 
-## Commercial Use Restriction
-
-Any use of SOVEREIGN, its source code, components, derivatives, packaged
-distributions, or substantially similar implementations in a commercial,
-revenue-generating, client-service, internal enterprise, SaaS, hosted,
-consulting, or productized environment requires prior written commercial
-authorization from the copyright holder.
+Any commercial use of SOVEREIGN requires prior written authorization from the
+copyright holder.
 
 Commercial use includes, but is not limited to:
-
-- selling or licensing the software
-- bundling it into paid products or services
-- internal business use tied to revenue generation
-- consulting, integration, or client delivery using the software
-- hosted inference, research, or orchestration services built on the software
-- use by companies, institutions, or funded organizations beyond purely
-  non-commercial evaluation or academic research
-
-## Non-Commercial Use
-
-Individuals may use, modify, and study the code for:
-
-- personal use
-- research use
-- educational use
-- non-commercial experimentation
-
-subject to the LICENSE file and retention of attribution.
-
-## Commercial Licensing
+- paid products or services
+- enterprise/internal commercial deployment
+- consulting or client delivery
+- managed hosting
+- SaaS offerings
+- revenue-generating research or orchestration services
+- derivative commercial implementations
 
 To obtain commercial rights, contact:
 
